@@ -29,6 +29,6 @@ Bool -  1 byte</div><div>
 <img src="img/DSA_l1 (5).png" type="image/png" style="cursor: default;"/></div><div>Далее производится инверсия.
 <div><br/></div><b><i>Вещественные числа</i></b><br/>
 Float,  double, long double.</div><div>
-<img src="img/DSA_l1 (1) [5].png" type="image/png" style="cursor: default;"/></div><div>
+<img src="img/DSA_l1 (6).png" type="image/png" style="cursor: default;"/></div><div>
 <img src="img/DSA_lI1 (2).png" type="image/png"/></div></div>
 </div>
